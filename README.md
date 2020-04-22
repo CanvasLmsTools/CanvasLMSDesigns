@@ -1,11 +1,14 @@
 # CanvasLMSDesigns
 Ready-Made Canvas LMS Templates, Colorful Design Templates for your Canvas LMS Instance 
 
+### Demo
+
+  - [Design 1](https://k12.edutech.lk/courses/3)
+
 ### Features
 
-  - Zero Dependancy
-  - No need to include and css or js files
-  - Magic
+  - Zero Dependancy - (No need to include any and css or js files into your canvas instance)
+  - Compitable with Canvas LMS editor
 
 ### How to use
   - Go to this file - Design-1/index.html - [Click here ](https://raw.githubusercontent.com/EdutechAZ/CanvasLMSDesigns/master/Design-1/index.html)
